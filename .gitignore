@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# compiled directory
+dist
+
+# environment variables
+.env
+
+# coverage
+coverage
+.nyc_output
+
+# logs
+npm-debug.log
+logs
+
+# misc
+.DS_Store
