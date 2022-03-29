@@ -17,6 +17,6 @@ $ npm run dev
 ```
 
 ## Options
-Upload an image route: `{host-ip-address}:8090/api/v1/upload`  
-  
-Retrieve all uploaded files: `{host-ip-address}:8090/api/v1/files`
+Upload an image route: ```{host-ip-address}:8090/api/v1/upload```  
+
+Retrieve all uploaded files: ```{host-ip-address}:8090/api/v1/files```
