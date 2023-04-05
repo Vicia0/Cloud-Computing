@@ -2,7 +2,7 @@
 
 ## Getting Started
 ```bash
-$ git clone git@github.com:mamane19/s3-bucket-upload.git
+$ git clone https://github.com/Vicia0/Cloud-Computing.git
 $ cd s3-bucket-upload
 ```  
 ## Install
@@ -17,6 +17,6 @@ $ npm run dev
 ```
 
 ## Options
-Upload an image route: `host-ip-address:`8090/api/v1/upload  
+Upload an image route: `host-ip-address:`3306/api/v1/upload  
 
-Retrieve all uploaded files: `host-ip-address`:8090/api/v1/files
+Retrieve all uploaded files: `host-ip-address`:3306/api/v1/files
